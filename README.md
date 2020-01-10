@@ -1,0 +1,1 @@
+# Anisotropy-of-Stiffness-Tetrads
