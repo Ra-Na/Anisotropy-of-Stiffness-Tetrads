@@ -9,7 +9,7 @@ The current repository contains supplementary material for the manuscript
 by M. Weber, R. Glüge and A. Bertram.
 
 The Mathematica-Script calculates the distances of a given stiffness C tetrad to its 
-projections C_i=P_i * C onto 7 of the 8 symmetry classes of elasticity (every C is trclinic). The distance is defined as d_i=1-|C_i|/|C|, being 0 if C falls into the symmetry class i and not exceeding 1. As the axes of anisotropy are unknown, d is minimized over three rotation angles. 
+projections C<sub>i</sub>=P_i * C onto 7 of the 8 symmetry classes of elasticity (every C is trclinic). The distance is defined as d_i=1-|C_i|/|C|, being 0 if C falls into the symmetry class i and not exceeding 1. As the axes of anisotropy are unknown, d is minimized over three rotation angles. 
 
 [Research group website](https://www.ifme.ovgu.de/ifme/en/cem.html)
 
