@@ -8,7 +8,7 @@ The current repository contains supplementary material for the manuscript
 
 by M. Weber, R. Glüge and A. Bertram.
 
-The Mathematica-Script calculates the distances of a given stiffness *C* tetrad to its 
+The Mathematica-script calculates the distances of a given stiffness *C* tetrad to its 
 projections *C<sub>i</sub> = P<sub>i</sub> * C* onto 7 of the 8 symmetry classes of elasticity (every *C* is triclinic). The distance is defined as *d<sub>i</sub> = 1 - |C<sub>i</sub>| / |C|*, being 0 if *C* falls into the symmetry class *i* and not exceeding 1. As the axes of anisotropy are unknown, *d* is minimized over three rotation angles. 
 
 [Research group website](https://www.ifme.ovgu.de/ifme/en/cem.html)
@@ -29,3 +29,5 @@ When refering to the script in publications please cite as follows:
   author = {Weber, M. and Gl\"uge, R. and Bertram, A.}
 }
 ```
+![Alt text](./logo.svg)
+<img src="./logo.svg">
