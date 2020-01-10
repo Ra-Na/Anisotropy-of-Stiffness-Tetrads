@@ -29,4 +29,4 @@ When refering to the script in publications please cite as follows:
   author = {Weber, M. and Gl\"uge, R. and Bertram, A.}
 }
 ```
-![ ](./controllers_brief.svg)
+![ ](./logo.svg)
